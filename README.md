@@ -42,11 +42,9 @@ Hands-on experience in SOC analyst tasks like log analysis and identifying suspi
 
 ## 📫 Connect with Me
 - Email - akshita15dec@gmail.com
+- TryHackMe - https://tryhackme.com/p/AkshitaD
 - LinkedIn: https://www.linkedin.com/in/akshita-dixit
 - Twitter - https://x.com/AkshitaDixit_15?t=5MhQZBX7i1qSAW9Q_KfH0Q&s=09
 
 
-<!---
-AkshitaDixit15/AkshitaDixit15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
