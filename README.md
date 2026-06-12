@@ -95,20 +95,6 @@ Web Browser
 
 ---
 
-## 🔐 TryHackMe Profile
-
-<a href="https://tryhackme.com/p/https://tryhackme.com/p/AkshitaD">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/https://tryhackme.com/p/AkshitaD.png" alt="TryHackMe Badge" />
-</a>
-
----
-
-## 🏆 GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Dixit-Akshita\&theme=onedark\&no-frame=true\&margin-w=15)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dixit-Akshita\&theme=github-dark\&hide_border=true)
