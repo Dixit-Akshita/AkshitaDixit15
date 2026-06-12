@@ -54,17 +54,11 @@ A cybersecurity-focused project designed to promote security awareness and provi
 
 #### Modules
 
-* **Phishing Detection**
+* **Phishing Detection** : Analyzes URLs and identifies potential phishing indicators.
 
-  * Analyzes URLs and identifies potential phishing indicators.
+* **Password Analyzer** : Evaluates password strength and encourages secure password practices.
 
-* **Password Analyzer**
-
-  * Evaluates password strength and encourages secure password practices.
-
-* **Cybersecurity Awareness**
-
-  * Provides educational content and best practices to help users stay safe online.
+* **Cybersecurity Awareness** : Provides educational content and best practices to help users stay safe online.
 
 #### Technologies Used
 
@@ -101,12 +95,38 @@ Web Browser
 
 ---
 
+## 🔐 TryHackMe Profile
+
+<a href="https://tryhackme.com/p/https://tryhackme.com/p/AkshitaD">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/https://tryhackme.com/p/AkshitaD.png" alt="TryHackMe Badge" />
+</a>
+
+---
+
+## 🏆 GitHub Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Dixit-Akshita\&theme=onedark\&no-frame=true\&margin-w=15)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dixit-Akshita\&theme=github-dark\&hide_border=true)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Dixit-Akshita\&color=blueviolet\&style=flat-square)
+
+---
+
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn:https://www.linkedin.com/in/akshita-dixit
-* 🔐 TryHackMe: https://tryhackme.com/p/AkshitaD
-* 🐦 X (Twitter): https://x.com/AkshitaDixit_15?t=5MhQZBX7i1qSAW9Q_KfH0Q&s=09
-* 📧 Email:akshita15dec@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/akshita-dixit)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/AkshitaD)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/AkshitaDixit_15)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](akshita15dec@gmail.com)
 
 ---
 
