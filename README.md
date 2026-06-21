@@ -32,7 +32,6 @@ Currently, I am building my cybersecurity portfolio on GitHub to document my lea
 
 * Wireshark
 * Splunk
-* Linux
 * Git & GitHub
 
 ---
