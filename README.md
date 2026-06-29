@@ -26,7 +26,6 @@ Currently, I am building my cybersecurity portfolio on GitHub to document my lea
 * TryHackMe
 * Hack The Box
 * PortSwigger Web Security Academy
-* PicoCTF
 
 ### Tools
 
