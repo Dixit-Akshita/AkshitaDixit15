@@ -15,7 +15,7 @@ Currently, I am building my cybersecurity portfolio on GitHub to document my lea
 * Explore defensive security and Security Operations (SOC)
 * Build and improve cybersecurity projects
 * Document my learning journey and achievements
-* Build my cybersecurity portfolio on GitHub
+* Building my cybersecurity portfolio on GitHub
 
 ---
 
@@ -24,8 +24,7 @@ Currently, I am building my cybersecurity portfolio on GitHub to document my lea
 ### Learning Platforms
 
 * TryHackMe
-* Hack The Box
-* PortSwigger Web Security Academy
+
 
 ### Tools
 
