@@ -2,22 +2,33 @@
 
 > Building a strong foundation in cybersecurity through hands-on learning, labs, and continuous learning.
 
-I am a **Cybersecurity Enthusiast** with a keen interest in defensive security, digital forensics, and Security Operations (SOC). I enjoy learning through practical labs, industry-recognized platforms, and real-world projects while continuously expanding my knowledge.
+I am a Cybersecurity Enthusiast with a strong interest in Defensive Security, Security Operations (SOC), and Digital Forensics. I enjoy learning through practical labs, industry-recognized platforms, and real-world projects while continuously expanding my cybersecurity knowledge.
 
-Currently, I am building my cybersecurity portfolio on GitHub to document my learning journey, showcase practical experience, and develop the skills required for a successful career in cybersecurity.
+Currently, I am building my cybersecurity portfolio on GitHub to document my learning journey, showcase practical experience, and develop the skills required for a career in SOC and Defensive Cybersecurity.
 
 ---
 
 ## 🧑‍💻 What I Do
 
-* Learn cybersecurity fundamentals through hands-on labs
+* Learn cybersecurity fundamentals through hands-on labs and CTFs
 * Practice networking, Linux, and web security concepts
-* Explore defensive security and Security Operations (SOC)
+* Explore Defensive Security and Security Operations (SOC)
 * Build and improve cybersecurity projects
-* Document my learning journey and achievements
-* Building my cybersecurity portfolio on GitHub
+* Practice security analysis and threat detection concepts
+* Document my learning journey, projects, and achievements
 
 ---
+## 🏆 Achievements
+
+🥇 TryHackMe — Top 3%
+
+🎯 Completed TryHackMe Pre Security
+
+🔐 Completed TryHackMe Cyber Security 101
+
+💼 Completed Deloitte Cybersecurity Job Simulation
+
+------
 
 ## 🛠 Platforms & Tools
 
@@ -30,6 +41,7 @@ Currently, I am building my cybersecurity portfolio on GitHub to document my lea
 
 * Wireshark
 * Splunk
+* CyberChef
 * Git & GitHub
 
 ---
@@ -45,39 +57,22 @@ Currently, I am building my cybersecurity portfolio on GitHub to document my lea
 
 ## 🚀 Projects
 
-### Cyber Security Analysis and Awareness System
+# 🛡️ RakshakX — Mini Security Analyst Platform
 
-A cybersecurity-focused project designed to promote security awareness and provide basic security analysis through interactive modules. This project helped me gain practical exposure to web development while exploring real-world cybersecurity concepts.
+Final-year cybersecurity project focused on security log analysis, suspicious event detection, alerts, and SOC-style monitoring.
 
-#### Modules
-
-* **Phishing Detection** : Analyzes URLs and identifies potential phishing indicators.
-
-* **Password Analyzer** : Evaluates password strength and encourages secure password practices.
-
-* **Cybersecurity Awareness** : Provides educational content and best practices to help users stay safe online.
-
-#### Technologies Used
-
-- Frontend:
-HTML, 
-CSS
-
-- Backend:
-Python, 
-Flask Framework
-
-- Tools:
-VS Code, 
-Web Browser
+🚧 Currently under development.
 
 
-#### Key Learnings
 
-* Organizing multiple functionalities into a single application.
-* Presenting cybersecurity concepts in a user-friendly manner.
-* Applying cybersecurity knowledge to practical projects.
-* Improving problem-solving and web development skills.
+
+
+# 🔐 Cyber Security Analysis & Awareness System
+
+Cybersecurity project focused on phishing detection, password analysis, and cybersecurity awareness.
+
+➡️ Check the respective repositories for detailed documentation, implementa
+
 
 
 ---
@@ -86,15 +81,17 @@ Web Browser
 
 * Networking Fundamentals
 * Linux Fundamentals
-* Web Security
 * Security Operations (SOC)
+* Log Analysis & Threat Detection
 * Digital Forensics
+* Defensive Cybersecurity
 
 ---
 
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dixit-Akshita&theme=github-dark&hide_border=true)
+
 ----
 
 ## 👀 Profile Views
