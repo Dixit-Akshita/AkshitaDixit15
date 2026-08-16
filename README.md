@@ -94,9 +94,8 @@ Web Browser
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dixit-Akshita\&theme=github-dark\&hide_border=true)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Dixit-Akshita&theme=github-dark&hide_border=true)
+----
 
 ## 👀 Profile Views
 
